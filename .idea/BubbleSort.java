@@ -34,6 +34,6 @@ public class BubbleSort {
             // Time Complexity Analysis:
             //The time complexity of bubble sort is O(n^2)
             // Where n is the number of elements in the array.
-            // This is because in the worst case scenario, each element needs to be compared with all other elements (n-1 comparisons) in each pass (n passes).
+            // Each element needs to be compared with all other elements (n-1 comparisons) in each pass (n passes).
         }
     }
